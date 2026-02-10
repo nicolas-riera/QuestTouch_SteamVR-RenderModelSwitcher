@@ -1,1 +1,1 @@
-pyinstaller main.py --onefile --name "QuestTouch_SteamVR-RenderModelSwitcher" --add-data="assets;assets" --icon=assets/icon.ico                                 
+pyinstaller main.py --onefile --name "QuestTouch_SteamVR-RenderModelSwitcher" --icon=assets/icon.ico --add-data="assets;assets"                            
