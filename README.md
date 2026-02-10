@@ -1,1 +1,1 @@
-# TouchPro-TouchPlus_SteamVR-RenderModelSwitcher
+# QuestTouch_SteamVR-RenderModelSwitcher
