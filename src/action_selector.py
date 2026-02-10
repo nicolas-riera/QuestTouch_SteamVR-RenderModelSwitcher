@@ -30,7 +30,7 @@ def action_selector():
                     headset = "Quest 3"
                 case "0":
                     clear()
-                    exit()
+                    break
                 case _:
                     clear()
                     print("Invalid Choice.")
@@ -73,7 +73,7 @@ def action_selector():
                     continue
                 case "0":
                     clear()
-                    exit()
+                    break
                 case _:
                     clear()
                     print("Invalid Choice.")
