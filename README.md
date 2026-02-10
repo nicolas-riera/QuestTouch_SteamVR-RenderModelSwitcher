@@ -17,4 +17,4 @@ Download the tool from the releases and execute it.
 
 You can navigate with numbers and by pressing on Enter.
 
-Note : some SteamVR updates can replace the models by their default state, and the program may not say the correct model type. Just do one of the 2 actions and it should set everything back to normal.
+Note : some SteamVR updates can replace the models to their default state, and the program may not say the correct model type. Just do one of the 2 actions and it should set everything back to normal.
