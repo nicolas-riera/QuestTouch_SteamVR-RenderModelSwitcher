@@ -3,7 +3,7 @@
 ![pythonversion](https://img.shields.io/badge/python-3.x-blue)
 
 Have you ever used Quest Pro controllers on a Quest 2 or Quest 3, but got annoyed that they don't show as Quest Pro controllers in SteamVR ?
-Or, you have Vive Controllers 2.0, but they still show up as Vive Controllers 1.0 in SteamVR ?
+Or, you have Vive Controllers 2.0, but they still show up as Vive Controllers 1.0 in SteamVR ?  
 ...Yes? Well that's exactly for you.
 
 SteamVR-RenderModelSwitcher is a Python made tool that lets you switch between different SteamVR 3D models.
